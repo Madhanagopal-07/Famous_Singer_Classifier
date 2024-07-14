@@ -25,4 +25,6 @@
 </tr>
 </table>
 
+#### Note:
+<p>Data is manually gathered using the webpage that follows. <a href="https://www.gettyimages.in/">Link</a></p>
 
